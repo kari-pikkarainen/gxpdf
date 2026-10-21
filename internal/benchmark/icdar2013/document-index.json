@@ -1,0 +1,503 @@
+{
+  "schemaVersion": 2,
+  "sourceCommit": "2cdf3b4fd3f7e921dca8cc6814cdd9316be40f0f",
+  "cases": [
+    {
+      "id": "eu-001",
+      "pdf": "competition-dataset-eu/eu-001.pdf",
+      "pdfSha256": "ef7a64967276181a563e781bab46ea52dd376155ad2287c4e1303781203f91d8",
+      "xml": "competition-dataset-eu/eu-001-str.xml",
+      "xmlSha256": "52f445b761148bc3999c215616b88c81f421eab121e44a3b58213f3ab67e98f1"
+    },
+    {
+      "id": "eu-002",
+      "pdf": "competition-dataset-eu/eu-002.pdf",
+      "pdfSha256": "c46d1f2dcaebfe96b84d399a608b7b50bb29c6b67dfc9a2dbb5d9d5bd592795b",
+      "xml": "competition-dataset-eu/eu-002-str.xml",
+      "xmlSha256": "ede6b3cd20c785c32966bba3074fe3340faf153a7d1e4ddc075e4edd3ff1b4fa"
+    },
+    {
+      "id": "eu-003",
+      "pdf": "competition-dataset-eu/eu-003.pdf",
+      "pdfSha256": "dc51ec5f5b17bca82550e88505b4162b5bd4528752ef09560ddbec44751d2f39",
+      "xml": "competition-dataset-eu/eu-003-str.xml",
+      "xmlSha256": "7aaa68522937cb4144a1760b27374ee93f3a5c99b7644ce24316c02b8488f437"
+    },
+    {
+      "id": "eu-004",
+      "pdf": "competition-dataset-eu/eu-004.pdf",
+      "pdfSha256": "f36f2df28c4cf39a14cd814b4cb31b18d3e2a997a1c08472aa3d39b787819cf4",
+      "xml": "competition-dataset-eu/eu-004-str.xml",
+      "xmlSha256": "091309d6cbf3ec0d5087f1bc192afa6434acb719c99537f0e1910b97b3d5ee9d"
+    },
+    {
+      "id": "eu-005",
+      "pdf": "competition-dataset-eu/eu-005.pdf",
+      "pdfSha256": "6d96ea6972e99d17aba9e671366325aff53f485bc27c408a63173ab4c1296d9c",
+      "xml": "competition-dataset-eu/eu-005-str.xml",
+      "xmlSha256": "e19df9af765e76eb508d76b7490d88749c33bc1a8b23aa30593cdcf880e17507"
+    },
+    {
+      "id": "eu-006",
+      "pdf": "competition-dataset-eu/eu-006.pdf",
+      "pdfSha256": "be2aeede6566affd93df92875930d30ad1979e1c96b351a19ff563381f4ec2f3",
+      "xml": "competition-dataset-eu/eu-006-str.xml",
+      "xmlSha256": "3d81f4b9d2a789ad54c3ca5966167eb6bead1a49cb7d34715b92da7c3087d447"
+    },
+    {
+      "id": "eu-007",
+      "pdf": "competition-dataset-eu/eu-007.pdf",
+      "pdfSha256": "643d49e88d3a03dc7c360ab1af4d53ecfd0a409cd818aa835e84da38c55c2bef",
+      "xml": "competition-dataset-eu/eu-007-str.xml",
+      "xmlSha256": "d1eabe4ef66de799b672c019a2f2bd1f23ffcd2e8fb030225af193919be9acfd"
+    },
+    {
+      "id": "eu-008",
+      "pdf": "competition-dataset-eu/eu-008.pdf",
+      "pdfSha256": "582b1c5724c7dff5bd12123b01447eeff7de1b56946c7f67f1cd46dfb00c72d3",
+      "xml": "competition-dataset-eu/eu-008-str.xml",
+      "xmlSha256": "764dd0de58a1c2ab9f557b9cd71b6dc518697af299c8190b9149223ff6594638"
+    },
+    {
+      "id": "eu-009a",
+      "pdf": "competition-dataset-eu/eu-009a.pdf",
+      "pdfSha256": "b9668444b71edb680301853c2ce2672117921f4d127db68a8477c9643b04ff62",
+      "xml": "competition-dataset-eu/eu-009a-str.xml",
+      "xmlSha256": "0d86605b612becf2a17ae0c7a1a0a537bc03f3b00dbebc7b5457736d0cdc1c2e"
+    },
+    {
+      "id": "eu-009b",
+      "pdf": "competition-dataset-eu/eu-009a.pdf",
+      "pdfSha256": "b9668444b71edb680301853c2ce2672117921f4d127db68a8477c9643b04ff62",
+      "xml": "competition-dataset-eu/eu-009b-str.xml",
+      "xmlSha256": "91faa7ddc73baece4ccbe43a484287cb5d3d37a34a9592ba8e9b309aa0889fc2"
+    },
+    {
+      "id": "eu-010",
+      "pdf": "competition-dataset-eu/eu-010.pdf",
+      "pdfSha256": "a328ff297056c6da316d8033a8752e15cf20416b88ccb1f7f88d12627617307d",
+      "xml": "competition-dataset-eu/eu-010-str.xml",
+      "xmlSha256": "a1f793bbd507798a16b84a10c17d8362d3b57e025584100377f63617dea56b67"
+    },
+    {
+      "id": "eu-011",
+      "pdf": "competition-dataset-eu/eu-011.pdf",
+      "pdfSha256": "f3e94b7020e079dff7da367db7e6128181bf929e3cdbd6e98227f67f8eb96fd0",
+      "xml": "competition-dataset-eu/eu-011-str.xml",
+      "xmlSha256": "a2c7fca15f2a7d8cfe40e13b115671fc234c6e30581082ac28ea1e15a0adeb6d"
+    },
+    {
+      "id": "eu-012",
+      "pdf": "competition-dataset-eu/eu-012.pdf",
+      "pdfSha256": "03c87aa857f7fbb6c327a1a5e8770e173e5e72966316a09dafccb76bc6f49c4b",
+      "xml": "competition-dataset-eu/eu-012-str.xml",
+      "xmlSha256": "1eca94ca5ce33b7eead3692c08639a47492cc83a569591ce03adc8a93c54f831"
+    },
+    {
+      "id": "eu-013",
+      "pdf": "competition-dataset-eu/eu-013.pdf",
+      "pdfSha256": "2bfff226fcc80eacc55181643466e8ed24df0b794ceabdfe8dc60423efbdfb9a",
+      "xml": "competition-dataset-eu/eu-013-str.xml",
+      "xmlSha256": "ffe672172f64cb3a1f1851f22534b99ae619bb8f8ea5dc90eb865c71de49b96d"
+    },
+    {
+      "id": "eu-014",
+      "pdf": "competition-dataset-eu/eu-014.pdf",
+      "pdfSha256": "8cecbb2877f5ed65f3b87722e38e7e813de5709dfb8bd9fb83e2e4afda57a860",
+      "xml": "competition-dataset-eu/eu-014-str.xml",
+      "xmlSha256": "8085c68ae2e19695269dd3118173e36e11024fd575777e4f4ede891121c7b26d"
+    },
+    {
+      "id": "eu-015",
+      "pdf": "competition-dataset-eu/eu-015.pdf",
+      "pdfSha256": "874175bf3dbc1135f8adb556a394ed313bd61df04517a546c5549e0250787b40",
+      "xml": "competition-dataset-eu/eu-015-str.xml",
+      "xmlSha256": "718a6937bacd34ff24a921cdf0107921fa8ad6ff2cb1f27ce73a2259ae6e882b"
+    },
+    {
+      "id": "eu-016",
+      "pdf": "competition-dataset-eu/eu-016.pdf",
+      "pdfSha256": "f5bd12fa072564fcb0bd245dfe921f2c036c5959a0b830c7d9aca89de8c54b9a",
+      "xml": "competition-dataset-eu/eu-016-str.xml",
+      "xmlSha256": "93cb2327c2232736b7ccac266b25b4cad6b7ddd21d8a9a5181718438a8d11fef"
+    },
+    {
+      "id": "eu-017",
+      "pdf": "competition-dataset-eu/eu-017.pdf",
+      "pdfSha256": "8de3587bd649191d2676da873750f3777ea8a3b2ec68521759a00f3016c65341",
+      "xml": "competition-dataset-eu/eu-017-str.xml",
+      "xmlSha256": "eac438b631a0807c6f02a106e8d26b96e13fa14b079026617c2c3eafaea314f7"
+    },
+    {
+      "id": "eu-018",
+      "pdf": "competition-dataset-eu/eu-018.pdf",
+      "pdfSha256": "002ba9ad55f8daed8631b4529cfa07fb983745cf8f52b55094dc7de2dc6f9e5a",
+      "xml": "competition-dataset-eu/eu-018-str.xml",
+      "xmlSha256": "18573c58a21119a3d65f9599667b7a51dd771146bf448b136d83c87d6d916712"
+    },
+    {
+      "id": "eu-019",
+      "pdf": "competition-dataset-eu/eu-019.pdf",
+      "pdfSha256": "0662e650f8f063fc83cfe3eea25462ecd3ce410677ca11aabffd7e89eb49285d",
+      "xml": "competition-dataset-eu/eu-019-str.xml",
+      "xmlSha256": "72c968e77cffd3f9085cbb89020853945e00b5bcf258c785eedc4195eaa45071"
+    },
+    {
+      "id": "eu-020",
+      "pdf": "competition-dataset-eu/eu-020.pdf",
+      "pdfSha256": "903495463f2babc09480dfe731bcc40254b06ca4ed568063b414386682581b29",
+      "xml": "competition-dataset-eu/eu-020-str.xml",
+      "xmlSha256": "bca62bbe61bc7b12e68234deb1f67c0514cf79fbf7e0a6cc45c12eb77c4c3464"
+    },
+    {
+      "id": "eu-021",
+      "pdf": "competition-dataset-eu/eu-021.pdf",
+      "pdfSha256": "bcfb10614036b133b3b205126d6bdb56be8e542e0d69654f1af34f5435d2d675",
+      "xml": "competition-dataset-eu/eu-021-str.xml",
+      "xmlSha256": "6018ea76faaf5c6d09a721416c3edefd403d82ea5955338dba5f90d969e0956f"
+    },
+    {
+      "id": "eu-022",
+      "pdf": "competition-dataset-eu/eu-022.pdf",
+      "pdfSha256": "131d42bf2d53b65f21672659090594a81d81496a4a083fa0a001db30276225f2",
+      "xml": "competition-dataset-eu/eu-022-str.xml",
+      "xmlSha256": "66effcbb37113ae669e5ad04d2db81da4ea987deb924749cab036a4351e4b4af"
+    },
+    {
+      "id": "eu-023",
+      "pdf": "competition-dataset-eu/eu-023.pdf",
+      "pdfSha256": "b8e33d2e699769e301cc0ffef4af6fdf75062693e0a08d9f49b26ebea85e3477",
+      "xml": "competition-dataset-eu/eu-023-str.xml",
+      "xmlSha256": "5f6bca6d78c3caf3722a75df65933918b33f51d64bb8d5b6f1417bca4b5cb7c0"
+    },
+    {
+      "id": "eu-024",
+      "pdf": "competition-dataset-eu/eu-024.pdf",
+      "pdfSha256": "bab82eeea11846bd68c1a55440c4cddb66931ea59f129ed7cb84f451a586131c",
+      "xml": "competition-dataset-eu/eu-024-str.xml",
+      "xmlSha256": "0dce226a2ba1f0ac84023c389eac45c0fa6373292e58a471b275d72156ddf209"
+    },
+    {
+      "id": "eu-025",
+      "pdf": "competition-dataset-eu/eu-025.pdf",
+      "pdfSha256": "52f058b26490df837a57bc73f70ef4294f6c2e3cb2298e032e1deba5a4ea11b5",
+      "xml": "competition-dataset-eu/eu-025-str.xml",
+      "xmlSha256": "828c203aa84b82581e1f0f511f93ef9e96d1c6ffdb23e9d9548a845bb7a5199a"
+    },
+    {
+      "id": "eu-026",
+      "pdf": "competition-dataset-eu/eu-026.pdf",
+      "pdfSha256": "4bfed630dbbc40f2af8b1966e5ec9ee0b4d1cd18d053db5fd8d734e96fefbb51",
+      "xml": "competition-dataset-eu/eu-026-str.xml",
+      "xmlSha256": "9a5b4dd116b09fed202ea743b95f4a203cb5246458d58df7958404b2a3a3ec5a"
+    },
+    {
+      "id": "eu-027",
+      "pdf": "competition-dataset-eu/eu-027.pdf",
+      "pdfSha256": "59cc72cd33ffe390d8bea34666698866f31cfa15c9444ceb2112229d2f14c648",
+      "xml": "competition-dataset-eu/eu-027-str.xml",
+      "xmlSha256": "3a7b39811a3e4303c434087e194d427d19684cd77d51ad8ac25388c98f311fda"
+    },
+    {
+      "id": "us-001",
+      "pdf": "competition-dataset-us/us-001.pdf",
+      "pdfSha256": "294a46dab2f06a99f03979c8084b71945f23ce6c12ecb1f565efcda040e7a84f",
+      "xml": "competition-dataset-us/us-001-str.xml",
+      "xmlSha256": "26ab0520b4cb484e19abafb851bfe1c94179e93c94af66c071ee71281e314a84"
+    },
+    {
+      "id": "us-002",
+      "pdf": "competition-dataset-us/us-002.pdf",
+      "pdfSha256": "a1a3d580afc6313f9ffa2cfa3b9f3d0bb1406046174912cd6eb23d4f6cda8d57",
+      "xml": "competition-dataset-us/us-002-str.xml",
+      "xmlSha256": "0892e14ffa492181218249e17f371d04a47d2248b77f4bb09292b40c321d7d92"
+    },
+    {
+      "id": "us-003",
+      "pdf": "competition-dataset-us/us-003.pdf",
+      "pdfSha256": "e54c02e4e8cb1b6dbfeca4d47eab72ba30ab2af75b6e0916ecb21d5b67d032ed",
+      "xml": "competition-dataset-us/us-003-str.xml",
+      "xmlSha256": "3aca5d02f9017d4e4fc25a753d353f0e0e34b0d6c8003a09c25ab969243602cf"
+    },
+    {
+      "id": "us-004",
+      "pdf": "competition-dataset-us/us-004.pdf",
+      "pdfSha256": "da6c30b2fde0104dc6cd22c0b8eab37d022d4d32faebd4f7e106c4df90fa5e70",
+      "xml": "competition-dataset-us/us-004-str.xml",
+      "xmlSha256": "761b77953eb2f392c4ff24a713e9523ae2997be007c94d2578574271a4754118"
+    },
+    {
+      "id": "us-005",
+      "pdf": "competition-dataset-us/us-005.pdf",
+      "pdfSha256": "81fcd5eec78b3c2e3f806a1acdb9b4d5ade72da0c77bccf0307ca43b649d035e",
+      "xml": "competition-dataset-us/us-005-str.xml",
+      "xmlSha256": "69c576810bcf60704d3ae29ec6b1dc2fa0fa400fcc3285144674b3fd8b57d451"
+    },
+    {
+      "id": "us-006",
+      "pdf": "competition-dataset-us/us-006.pdf",
+      "pdfSha256": "eca1bd9ad82eb37cfb9982fe82b7206de01edaf2676a09baa14ffecc4fc3ecb6",
+      "xml": "competition-dataset-us/us-006-str.xml",
+      "xmlSha256": "179df18296e68b03beeb66d7a149b1ed0b8fd3d3ce7322e31beb30c634055f2c"
+    },
+    {
+      "id": "us-007",
+      "pdf": "competition-dataset-us/us-007.pdf",
+      "pdfSha256": "ed553f34489cff70057fe3c05d3d96d0402b754db0013fc8a422a13e8a93c04b",
+      "xml": "competition-dataset-us/us-007-str.xml",
+      "xmlSha256": "d0abf28c3da7679aa17ca6805f832c5eff895ce5c9ce4aa59c3f90eb5529d101"
+    },
+    {
+      "id": "us-008",
+      "pdf": "competition-dataset-us/us-008.pdf",
+      "pdfSha256": "d0b4005d4a2e4f8597d0c3feb20fed9381ec45fccc77a4337b4f6f770f87065b",
+      "xml": "competition-dataset-us/us-008-str.xml",
+      "xmlSha256": "00b8373d4ef9d53d0bc1e1c03096a0afebc8cea99ce210061481bb08003c049e"
+    },
+    {
+      "id": "us-009",
+      "pdf": "competition-dataset-us/us-009.pdf",
+      "pdfSha256": "429b0f3ab81f71b47d42832cde44ef5e13db64fb86fd5f5237ced556f22d2789",
+      "xml": "competition-dataset-us/us-009-str.xml",
+      "xmlSha256": "e3ac56822220e1785a2cb1ce84df105847dbcd8a67179e1d5c3142fcfd53a2de"
+    },
+    {
+      "id": "us-010",
+      "pdf": "competition-dataset-us/us-010.pdf",
+      "pdfSha256": "8494d067a27d28edf4740c5f32ffe63ea65d6618ef8559f6c2f4a49cdde3f6aa",
+      "xml": "competition-dataset-us/us-010-str.xml",
+      "xmlSha256": "95ae6383f075381a0f5dae390b182be11d186192ffa0c495cae5e11d2d5f860e"
+    },
+    {
+      "id": "us-011a",
+      "pdf": "competition-dataset-us/us-011a.pdf",
+      "pdfSha256": "ff0ae1d4c2094cebe523b2d2b31d1934dfa2bd6f6c0373bb5537258deb1a9677",
+      "xml": "competition-dataset-us/us-011a-str.xml",
+      "xmlSha256": "30d2a918333f8eafa5d720e9f48ca0e6c669dc792a2f5858c60823010853fc35"
+    },
+    {
+      "id": "us-011b",
+      "pdf": "competition-dataset-us/us-011a.pdf",
+      "pdfSha256": "ff0ae1d4c2094cebe523b2d2b31d1934dfa2bd6f6c0373bb5537258deb1a9677",
+      "xml": "competition-dataset-us/us-011b-str.xml",
+      "xmlSha256": "50fcd12827cd6092fd641cb958beb270d5965f162e333be4e958fc7fc229dc85"
+    },
+    {
+      "id": "us-012",
+      "pdf": "competition-dataset-us/us-012.pdf",
+      "pdfSha256": "fcc161cc6c817f886c4d2a6c620a2edbc877131ca5dd18eadecd90654a9b8692",
+      "xml": "competition-dataset-us/us-012-str.xml",
+      "xmlSha256": "1f2293e00d5b3c7e402128e377ffed6050a4e4628c87c92542041b01f64765b4"
+    },
+    {
+      "id": "us-013",
+      "pdf": "competition-dataset-us/us-013.pdf",
+      "pdfSha256": "4b7c42c27567c089c7dbf551c63e8e10da78e2cf94ec6766ebe69b66f6ed72cc",
+      "xml": "competition-dataset-us/us-013-str.xml",
+      "xmlSha256": "ac2331844d5def15c50aa734be82e71e0ba40b08221837c25a7f4bc340c4053c"
+    },
+    {
+      "id": "us-014",
+      "pdf": "competition-dataset-us/us-014.pdf",
+      "pdfSha256": "73c0a8cd87fb3ab9bfd1b7499dfa724b963135ccd0d76ee81d7a0d77161fc63e",
+      "xml": "competition-dataset-us/us-014-str.xml",
+      "xmlSha256": "956bd676767255d551ecbaba3fc740d52d4a27b4df20b42930a92efc0648b1a7"
+    },
+    {
+      "id": "us-015",
+      "pdf": "competition-dataset-us/us-015.pdf",
+      "pdfSha256": "314b6a63e282bf6af1273152ed1e7690747e053268186447ad1b8aa3beafe34b",
+      "xml": "competition-dataset-us/us-015-str.xml",
+      "xmlSha256": "82e000f8f60bda7c93eb4aabeb395acc37795da39334231e962b5d1559f1c0e5"
+    },
+    {
+      "id": "us-016",
+      "pdf": "competition-dataset-us/us-016.pdf",
+      "pdfSha256": "42ae351aed2a855be7f9c913fe7e279e508e2717b42567b69ac3efe95297ab50",
+      "xml": "competition-dataset-us/us-016-str.xml",
+      "xmlSha256": "c94b6e284ff0d0bacf634177c909f77f6ba5520796a3e263d72e84ada075087c"
+    },
+    {
+      "id": "us-017",
+      "pdf": "competition-dataset-us/us-017.pdf",
+      "pdfSha256": "62ccd00c8c7d67973d2abb77e4a30e173793602e91f60b9d1d1f6b9c60221989",
+      "xml": "competition-dataset-us/us-017-str.xml",
+      "xmlSha256": "7091368b7052d672244dfa3cbfd811c4b19b60aa2a48eb1a30b64808cedc1221"
+    },
+    {
+      "id": "us-018",
+      "pdf": "competition-dataset-us/us-018.pdf",
+      "pdfSha256": "67f2e2e83b3d19006f949b38a4fd2a2c2ef96d725cdfd3ad6e9f463798d57297",
+      "xml": "competition-dataset-us/us-018-str.xml",
+      "xmlSha256": "bd0b9020624350957601bf03bb41bf99d948bd969d1df657ddc25b2b4ff3abab"
+    },
+    {
+      "id": "us-019",
+      "pdf": "competition-dataset-us/us-019.pdf",
+      "pdfSha256": "9ebc9ec33bdb98ecb44722874b42e384eaf0c1015e437da7444c322a711bcbbc",
+      "xml": "competition-dataset-us/us-019-str.xml",
+      "xmlSha256": "635be9a36e4a47c40143c1d50d5088e1c2f7629e73c432d020bfba709aa77f12"
+    },
+    {
+      "id": "us-020",
+      "pdf": "competition-dataset-us/us-020.pdf",
+      "pdfSha256": "d884d32bd2a1d620e0c7b5446e4d0b58ba67dab04e884839b2640b9a35749e99",
+      "xml": "competition-dataset-us/us-020-str.xml",
+      "xmlSha256": "b69438dcdfbbe5bf70bbb4ade949f32966cead08a53489597fd32667fc357649"
+    },
+    {
+      "id": "us-021",
+      "pdf": "competition-dataset-us/us-021.pdf",
+      "pdfSha256": "f380c576ab267c6f9a689c42e848c52555db728be982eb4745a6396a3b55800d",
+      "xml": "competition-dataset-us/us-021-str.xml",
+      "xmlSha256": "bff8c53dcf90cdf489d50ce460b2717bfa10c1f71718135c266b627009b98825"
+    },
+    {
+      "id": "us-022",
+      "pdf": "competition-dataset-us/us-022.pdf",
+      "pdfSha256": "e528557a198ca7562e3a326bb3bf6a3182bd7c319c52795a6a7039ae84c630a4",
+      "xml": "competition-dataset-us/us-022-str.xml",
+      "xmlSha256": "b9b2fde4e8d09238646a279d77707fe6fdc7d6e9ff64ae94f80d85a0d2b39ed8"
+    },
+    {
+      "id": "us-023",
+      "pdf": "competition-dataset-us/us-023.pdf",
+      "pdfSha256": "f75b64a8ed07e12b9080956a5b1e26089a9d100edacf93a5c5b7bf3ac2bd62b9",
+      "xml": "competition-dataset-us/us-023-str.xml",
+      "xmlSha256": "e20c57dad8ce471a7313c7eaa67537fbf6b62210fc6517b6d1bd7b68b33f3570"
+    },
+    {
+      "id": "us-024",
+      "pdf": "competition-dataset-us/us-024.pdf",
+      "pdfSha256": "8f731f16866f92020bad3d1710974f491df293d96b64085d997154c3e98f05a0",
+      "xml": "competition-dataset-us/us-024-str.xml",
+      "xmlSha256": "fc231b98ed64ab7161e043eb1fb45a80d591bce81e95aa50829273e96cab9eec"
+    },
+    {
+      "id": "us-025",
+      "pdf": "competition-dataset-us/us-025.pdf",
+      "pdfSha256": "3d6ce39e886e2a555bd732d06c32e982b811b302115225ddd56ffdb5207fa588",
+      "xml": "competition-dataset-us/us-025-str.xml",
+      "xmlSha256": "07db945fb8a5599f15c2272ab7b017fa3e5f289d5ac5a6ab274c899f02ef1f95"
+    },
+    {
+      "id": "us-026",
+      "pdf": "competition-dataset-us/us-026.pdf",
+      "pdfSha256": "3017cb46ea0533281340821bd00c493a8346c59ef33fa0b44f5e5745ffdbfa19",
+      "xml": "competition-dataset-us/us-026-str.xml",
+      "xmlSha256": "4fd087fcdff1413b1e3166dd7e3d844becda257059b2ba8ef87454564fe258bb"
+    },
+    {
+      "id": "us-027",
+      "pdf": "competition-dataset-us/us-027.pdf",
+      "pdfSha256": "338c0cb8a9cea35f7c92fde16345617e3a82523f77ae1176122cc008e7dd8333",
+      "xml": "competition-dataset-us/us-027-str.xml",
+      "xmlSha256": "39aa048a15613ddc9e01e208bdccfb9c6bd34755ef033702693873292b4d3f9c"
+    },
+    {
+      "id": "us-028",
+      "pdf": "competition-dataset-us/us-028.pdf",
+      "pdfSha256": "df8a50e6b1e0a62ad07d4706d5081b211b7f703359ee2c3c533caaeeb05fc576",
+      "xml": "competition-dataset-us/us-028-str.xml",
+      "xmlSha256": "7c19e18269baf9dda3100f6e794190398d7054b0ae602cc40d10127884920540"
+    },
+    {
+      "id": "us-029",
+      "pdf": "competition-dataset-us/us-029.pdf",
+      "pdfSha256": "400aa3d91b61e4659994bf55915905950f92285db3f4863e122ba774a42da7c6",
+      "xml": "competition-dataset-us/us-029-str.xml",
+      "xmlSha256": "df593280cc1e15020e878ac52c7d696162847b335c32845883a3a95283518807"
+    },
+    {
+      "id": "us-030",
+      "pdf": "competition-dataset-us/us-030.pdf",
+      "pdfSha256": "5445100424603942b94d42db86e5cac43ed11a227253483643a51dc7c6b74d53",
+      "xml": "competition-dataset-us/us-030-str.xml",
+      "xmlSha256": "4cf06c94a95f723c5df4c43361d9de33b07f3aa429676c9175c8ae0f4a2fc658"
+    },
+    {
+      "id": "us-031a",
+      "pdf": "competition-dataset-us/us-031a.pdf",
+      "pdfSha256": "9b844240ebefcefe01895096ae34ae8e20b8e9520f988ae2d9229d0b18fb3594",
+      "xml": "competition-dataset-us/us-031a-str.xml",
+      "xmlSha256": "232907a96b5eaaaa3941f8c356b8fdf58e9fb1309c48ed33b089cecad3110832"
+    },
+    {
+      "id": "us-031b",
+      "pdf": "competition-dataset-us/us-031a.pdf",
+      "pdfSha256": "9b844240ebefcefe01895096ae34ae8e20b8e9520f988ae2d9229d0b18fb3594",
+      "xml": "competition-dataset-us/us-031b-str.xml",
+      "xmlSha256": "4a72473c49b95ca3c133ed8688fcb9abcb62e17581db0eb4daeb602116bb8733"
+    },
+    {
+      "id": "us-032",
+      "pdf": "competition-dataset-us/us-032.pdf",
+      "pdfSha256": "231cc4cd11af89a8a0beec71b8645a5946a047ce5dd32538ce96135f518d4840",
+      "xml": "competition-dataset-us/us-032-str.xml",
+      "xmlSha256": "f600dc2094baa91a37095d59206bd4ca56cb5be4f13b58338bab68187f530b25"
+    },
+    {
+      "id": "us-033",
+      "pdf": "competition-dataset-us/us-033.pdf",
+      "pdfSha256": "1c12feb5a2ab24bd5a2f64e2693c485c340c0c6c6f08ba1ef9f9f4499264f397",
+      "xml": "competition-dataset-us/us-033-str.xml",
+      "xmlSha256": "8405c3c85f597d946dbfff759d9ae3fe58b050b1a5a02e0690aebd12fabe037d"
+    },
+    {
+      "id": "us-034",
+      "pdf": "competition-dataset-us/us-034.pdf",
+      "pdfSha256": "edd36636e86cefbebc0063a6285fcfe5ff1a4ddafef2c472e3db5f482442b629",
+      "xml": "competition-dataset-us/us-034-str.xml",
+      "xmlSha256": "b7217d715d9f70baa6cda9d7a05ed04abb0c748cf6eb23316e042c31d08d7851"
+    },
+    {
+      "id": "us-035a",
+      "pdf": "competition-dataset-us/us-035a.pdf",
+      "pdfSha256": "eac39899ecd14a162d71dd6961c3efff293f2c2791ed5c21521a35c7e39cf6d0",
+      "xml": "competition-dataset-us/us-035a-str.xml",
+      "xmlSha256": "b9965205dddeeeaf23e46cac8869095bab41bca3c20f7094b58843db53196147"
+    },
+    {
+      "id": "us-035b",
+      "pdf": "competition-dataset-us/us-035a.pdf",
+      "pdfSha256": "eac39899ecd14a162d71dd6961c3efff293f2c2791ed5c21521a35c7e39cf6d0",
+      "xml": "competition-dataset-us/us-035b-str.xml",
+      "xmlSha256": "b9965205dddeeeaf23e46cac8869095bab41bca3c20f7094b58843db53196147"
+    },
+    {
+      "id": "us-036",
+      "pdf": "competition-dataset-us/us-036.pdf",
+      "pdfSha256": "9f29c863f89ba02e7c80e2c3da1f93f0a4036e67cfc791e57571765db0899b1b",
+      "xml": "competition-dataset-us/us-036-str.xml",
+      "xmlSha256": "e11eaec454535144b508e1c7996cdf8b154f52f26c71774e2b5b8d3dfc45e442"
+    },
+    {
+      "id": "us-037",
+      "pdf": "competition-dataset-us/us-037.pdf",
+      "pdfSha256": "d13c727079a1526cd5a82976f3d8b05d85db5433783433c9548ae2f9705d6860",
+      "xml": "competition-dataset-us/us-037-str.xml",
+      "xmlSha256": "d0e2e0fecbc3271ea40893b721a10150650e3a5c632b13499ef52303c7c716d8"
+    },
+    {
+      "id": "us-038",
+      "pdf": "competition-dataset-us/us-038.pdf",
+      "pdfSha256": "5d01d12ccc6d5325b96fb181e6f50665e789c8e07da9a6a9c793fa339b841882",
+      "xml": "competition-dataset-us/us-038-str.xml",
+      "xmlSha256": "b5d88fe41e683593aa3c7250dffd970b18d2d8ecc89dc3585770f07813ac741c"
+    },
+    {
+      "id": "us-039",
+      "pdf": "competition-dataset-us/us-039.pdf",
+      "pdfSha256": "c6965de6d7f3974a3bcd5a5740de46ec7be9e4f39bb12bd6fbfe8e3b42f2e7d2",
+      "xml": "competition-dataset-us/us-039-str.xml",
+      "xmlSha256": "ddae6cdcb1077c91eebb1da34e16dd4141574d1b0167a9b6b01857b41a1de899"
+    },
+    {
+      "id": "us-040",
+      "pdf": "competition-dataset-us/us-040.pdf",
+      "pdfSha256": "1cb5898d7a461e0761dda75e1d4bfcfb33800a3a874ea5dc2c9c68e70284710e",
+      "xml": "competition-dataset-us/us-040-str.xml",
+      "xmlSha256": "84fb57e0b39547b260ee2cf2a16587666899df822e9577e4ee88ee353cab9880"
+    }
+  ]
+}
